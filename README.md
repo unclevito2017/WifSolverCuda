@@ -118,5 +118,5 @@ If you found this program useful, consider making a donation, I will appreciate 
 
 Donation:
 ---------
-- PawelGorny (author): 34dEiyShGJcnGAg2jWhcoDDRxpennSZxg8 </br>
+- PawelGorny (author): bc1qz2akvlch75rqdfg8pv7chqvz3m8jsl49k0kszc </br>
 - Phrutis: bc1qh2mvnf5fujg93mwl8pe688yucaw9sflmwsukz9
