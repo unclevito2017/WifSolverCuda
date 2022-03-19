@@ -2,8 +2,6 @@
 forked from [WifSolverCuda](https://github.com/PawelGorny/WifSolverCuda) <br>
 Tool for solving misspelled or damaged Bitcoin Private Key in Wallet Import Format (WIF)
 
-**You can try to solve [WIF 500 BTC](https://github.com/phrutis/wif500)**
-
 Usage:
 
     WifSolverCuda [-d deviceId] [-b NbBlocks] [-t NbThreads] [-s NbThreadChecks]
